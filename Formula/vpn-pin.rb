@@ -1,9 +1,9 @@
 class VpnPin < Formula
   desc "Selective IPv4 host routing through independent OpenVPN tunnels"
   homepage "https://github.com/m1ngshum/vpn-pin"
-  url "https://github.com/m1ngshum/vpn-pin/releases/download/v0.2.0-rc.4/vpn-pin-0.2.0-rc.4.tar.gz"
-  version "0.2.0-rc.4"
-  sha256 "71a10397f5dbddca1d14b5d3b7169ad9fe8f5d7020043c044e16f39b5cbb8086"
+  url "https://github.com/m1ngshum/vpn-pin/releases/download/v0.2.0-rc.5/vpn-pin-0.2.0-rc.5.tar.gz"
+  version "0.2.0-rc.5"
+  sha256 "36c5191b3b74e4bbff30fc9d7fb458c51f9c41eabca04ccf3039b415256f46ed"
   license "MIT"
 
   depends_on :macos
